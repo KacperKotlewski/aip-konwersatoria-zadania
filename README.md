@@ -1,6 +1,6 @@
-# zadanie 2 AiP konserwatoria
+# zadanie 3 AiP konserwatoria
 ## spis treści
-- [zadanie 2 AiP konserwatoria](#zadanie-2-aip-konserwatoria)
+- [zadanie 3 AiP konserwatoria](#zadanie-2-aip-konserwatoria)
   - [spis treści](#spis-treści)
   - [zadanie 1](#zadanie-1)
     - [1a](#1a)
